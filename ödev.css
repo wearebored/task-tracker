@@ -1,0 +1,61 @@
+body{
+    border-top: solid 2px gray;
+    border-right:  solid 2px gray;
+    margin: 7px 40px 7px 80px;
+    
+
+}
+form{
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+h1{
+    text-align: center;
+
+}
+#div1 fieldset{
+    display: flex;
+
+}
+
+#div1 div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    margin-right: 5px;
+
+}
+#div1 label{
+    margin: 5px 0 5px 0;
+
+}
+#div2 p{
+    margin: 0;
+    margin-left: 50px;
+
+}
+
+#div2-1{
+    display: flex;
+    flex-direction: row;
+    
+}
+#div2-1 div{
+    margin-right: 140px;
+
+
+}
+textarea{
+    resize: none;
+    width: 350px;
+    height: 100px;
+}
+#span1{
+    font-weight: bold;
+}
+#span2{
+    font-weight: bold;
+    text-decoration: underline;
+}
