@@ -28,7 +28,7 @@ Project is a Task Tracker Application.
 
 ## Preview
 
-![ Project Snapshot ](react-task-tracker.gif)
+![ Project Snapshot ](tasktracker.gif)
 
 ## Project Skeleton
 
