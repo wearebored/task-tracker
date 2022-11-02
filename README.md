@@ -24,7 +24,7 @@ Project is a Task Tracker Application.
 
 ## Pages
 
-[ Project Snapshot ](https://celadon-melba-c8ef6f.netlify.app/)
+[ Project Website ](https://celadon-melba-c8ef6f.netlify.app/)
 
 ## Preview
 
