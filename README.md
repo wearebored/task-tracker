@@ -20,9 +20,11 @@ Project is a Task Tracker Application.
   - .map, push,
   - props
 
-## Github-pages
+<!-- ## Github-pages -->
 
-![ Project Snapshot ](react-task-tracker.gif)
+## Pages
+
+![ Project Snapshot ](https://celadon-melba-c8ef6f.netlify.app/)
 
 ## Preview
 
