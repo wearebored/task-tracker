@@ -17,7 +17,7 @@ Project is a Task Tracker Application.
 - ReactJS
   - useState
   - useRef
-  - .map, push,
+  - .map, push
   - props
 
 <!-- ## Github-pages -->
